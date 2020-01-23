@@ -17,6 +17,7 @@ public class GitReview {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Git Review");
+        System.out.println("Modified from github");
     }
     
 }
